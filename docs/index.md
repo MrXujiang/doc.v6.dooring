@@ -1,12 +1,12 @@
 ---
 hero:
-  title: 趣谈前端, 让前端更有趣!
-  desc: 在我一生漫长的黑夜里，我读过的和人们读给我听的那些书，已经成为了一座辉煌的巨大灯塔，为我指示出了人生及心灵的'最深的航道
+  title: Dooring可视化搭建系列产品
+  desc: 提高企业效能，统一研发标准，前端解决方案
   actions:
-    - text: 开始学习
-      link: /guides/afrontend
-    - text: Github
-      link: https://github.com/MrXujiang
+    - text: H5-Dooring
+      link: http://h5.dooring.cn/doc
+    - text: V6.Dooring
+      link: /v6
 features:
   - icon: https://gw.alipayobjects.com/zos/bmw-prod/881dc458-f20b-407b-947a-95104b5ec82b/k79dm8ih_w144_h144.png
     title: 开箱即用
@@ -111,33 +111,6 @@ export default () => {
   );
 };
 ```
-
-## 精选社区
-
-<table>
-  <tr>
-    <td width="240" align="center">
-      <a target="_blank" href="http://lowcode.dooring.cn/">
-        <img src="http://cdn.dooring.cn/dr/lowcode.png" width="240" />
-      </a>
-    </td>
-    <td width="180" align="center">
-      <a target="_blank" href="https://www.helloworld.net">
-        <img src="http://cdn.dooring.cn/dr/hw.b9123f6c.svg" width="180" />
-      </a>
-    </td>
-    <td width="160" align="center">
-      <a target="_blank" href="http://www.ffbig.cn">
-        <img src="https://vp-blog-img.oss-cn-shanghai.aliyuncs.com/ffbig.jpeg" width="80" />
-      </a>
-    </td>
-    <td width="160" align="center">
-      <a target="_blank" href="http://cdn.dooring.cn/dr/lowcode.jpeg">
-        <strong>虚位以待</strong>
-      </a>
-    </td>
-  </tr>
-</table>
 
 ## 反馈与共建
 

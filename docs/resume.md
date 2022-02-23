@@ -6,14 +6,14 @@ nav:
 
 ## 作者简介
 
-> 徐小夕（笔名），祖籍四川，新疆长大，毕业于武汉某一本院校 IE 工程专业，曾多次获得全国大学生创新创业大赛银奖或铜奖。自大学起就从事前端开发相关工作，5 年+前端工作经验，先后服务过多家上市公司，独角兽企业，做过前端负责人，架构师。热爱技术，开源，写作，`知乎专栏作家`，`掘金签约作者`，`HelloWorld社区创始人之一`，`LowCode可视化社区创始人`, `H5-Dooring 框架作者`。 同时感谢一路走来一起做开源的[小伙伴们](https://github.com/H5-Dooring/dooringx)，持续共建!
+> 徐小夕（笔名），5 年+前端工作经验，先后服务过多家上市公司，独角兽企业，做过前端负责人，架构师。热爱技术，开源，写作，`知乎专栏作家`，`掘金签约作者`，`HelloWorld社区创始人之一`，`LowCode可视化社区创始人`, `H5-Dooring 框架作者`。 同时感谢一路走来一起做开源的[小伙伴们](https://github.com/H5-Dooring/dooringx)，持续共建!
 
 - [公众号 《趣谈前端》](http://cdn.dooring.cn/dr/qtqd_code.png)
 - [视频号 《趣谈前端》](http://cdn.dooring.cn/dr/vc.jpeg)《小夕说》
 - [知乎(2.6w+粉丝)](https://www.zhihu.com/people/build800)
 - [掘金(1.7w+粉丝)](https://juejin.cn/user/3808363978429613)
-- [B 站(1500+粉丝)]()
-- [Github(7.9k+ star)](https://github.com/MrXujiang)
+- [B 站(1600+粉丝)]()
+- [Github(8.1k+ star)](https://github.com/MrXujiang)
 
 ### 技术栈
 
@@ -169,121 +169,6 @@ export default () => {
     </>
   );
 };
-```
-
-### 更多优秀开源作者
-
-```jsx
-/**
- * inline: true
- */
-
-import React from 'react';
-import { Card, Col, Row } from 'antd';
-
-export default () => (
-  <div className="site-card-wrapper">
-    <Row gutter={16}>
-      <Col span={6}>
-        <Card
-          title="yehuozhili"
-          bordered={false}
-          extra={
-            <a href="https://github.com/yehuozhili" target="_blank">
-              github
-            </a>
-          }
-        >
-          熟悉react, nodejs等技术领域, 参与多个优秀开源项目, dooringx核心作者
-        </Card>
-      </Col>
-      <Col span={6}>
-        <Card
-          title="GeekQiaQia"
-          bordered={false}
-          extra={
-            <a href="https://github.com/GeekQiaQia" target="_blank">
-              github
-            </a>
-          }
-        >
-          熟悉vue, react等技术领域, vue-admin开源库作者, dooringx贡献者
-        </Card>
-      </Col>
-      <Col span={6}>
-        <Card
-          title="XiaoZhaoxia"
-          bordered={false}
-          extra={
-            <a href="https://github.com/XiaoZhaoxiaaa" target="_blank">
-              github
-            </a>
-          }
-        >
-          熟悉vue, react等技术领域, dooringx贡献者
-        </Card>
-      </Col>
-      <Col span={6}>
-        <Card
-          title="RalapChen"
-          bordered={false}
-          extra={
-            <a href="https://github.com/RalapChen" target="_blank">
-              github
-            </a>
-          }
-        >
-          熟悉vue, react等技术领域, dooringx贡献者
-        </Card>
-      </Col>
-      <Col span={6}>
-        <Card
-          title="taozhi1010"
-          bordered={false}
-          extra={
-            <a href="https://github.com/taozhi1010" target="_blank">
-              github
-            </a>
-          }
-        >
-          熟悉vue, nodejs等技术领域, dooringx贡献者
-        </Card>
-      </Col>
-      <Col span={6}>
-        <Card
-          title="47℃"
-          bordered={false}
-          extra={
-            <a
-              href="https://github.com/H5-Dooring/dooringx/blob/main"
-              target="_blank"
-            >
-              github
-            </a>
-          }
-        >
-          熟悉交互设计, dooringx贡献者
-        </Card>
-      </Col>
-      <Col span={6}>
-        <Card
-          title="大风吹"
-          bordered={false}
-          extra={
-            <a
-              href="https://github.com/H5-Dooring/dooringx/blob/main"
-              target="_blank"
-            >
-              github
-            </a>
-          }
-        >
-          擅长中后台产品设计, dooringx贡献者
-        </Card>
-      </Col>
-    </Row>
-  </div>
-);
 ```
 
 ### 联系 & 合作
