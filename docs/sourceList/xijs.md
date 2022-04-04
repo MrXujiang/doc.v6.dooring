@@ -1,7 +1,7 @@
 ---
 title: xijs
 nav:
-  title: 开源广场
+  title: 文档列表
   order: 2
 group:
   title: xijs

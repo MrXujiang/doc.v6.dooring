@@ -13,9 +13,9 @@ export default defineConfig({
   mode: 'site',
   logo: 'http://cdn.dooring.cn/dr/qtqd_logo.png',
   exportStatic: {},
-  outputPath: '../../dooring-bs/server/static/blog',
-  base: '/blog/',
-  publicPath: '/blog/',
+  outputPath: '../../dooring-bs/server/static/docz',
+  base: '/docz/',
+  publicPath: '/docz/',
   locales: [
     ['zh-CN', '中文'],
     ['en-US', 'English'],
@@ -35,6 +35,15 @@ export default defineConfig({
   dynamicImport: {
     loading: '@/LoadingCp',
   },
+  headScripts: [
+    `var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?517926916414c9f9eac1d2093dc7bedf";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();`,
+  ],
   manifest: {},
   hash: true,
 });

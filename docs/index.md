@@ -6,7 +6,7 @@ hero:
     - text: H5-Dooring
       link: http://h5.dooring.cn/doc
     - text: V6.Dooring
-      link: /v6
+      link: /source-list/V6.Dooring/base
 features:
   - icon: https://gw.alipayobjects.com/zos/bmw-prod/881dc458-f20b-407b-947a-95104b5ec82b/k79dm8ih_w144_h144.png
     title: 开箱即用
