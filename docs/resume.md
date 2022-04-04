@@ -11,9 +11,9 @@ nav:
 - [公众号 《趣谈前端》](http://cdn.dooring.cn/dr/qtqd_code.png)
 - [视频号 《趣谈前端》](http://cdn.dooring.cn/dr/vc.jpeg)《小夕说》
 - [知乎(2.6w+粉丝)](https://www.zhihu.com/people/build800)
-- [掘金(1.7w+粉丝)](https://juejin.cn/user/3808363978429613)
-- [B 站(1600+粉丝)]()
-- [Github(8.1k+ star)](https://github.com/MrXujiang)
+- [掘金(1.8w+粉丝)](https://juejin.cn/user/3808363978429613)
+- [B 站(1700+粉丝)]()
+- [Github(8.3k+ star)](https://github.com/MrXujiang)
 
 ### 技术栈
 

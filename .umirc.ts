@@ -30,6 +30,14 @@ export default defineConfig({
       },
       'antd',
     ],
+    [
+      'import',
+      {
+        libraryName: 'antd-mobile',
+        libraryDirectory: 'es/components',
+        style: false,
+      },
+    ],
   ],
   favicon: 'http://cdn.dooring.cn/dr/qtqd_logo.png',
   dynamicImport: {
